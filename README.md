@@ -181,8 +181,8 @@ Pizza-Place-Sales/
 
 
 ## AUTHOR
-Etebom Ntuk
-[Github](https://github.com/pg82647)
+Etebom Ntuk  
+[Github](https://github.com/pg82647)  
 [LinkedIn](https://www.linkedin.com/in/ntuk-etebom/)
 
 
