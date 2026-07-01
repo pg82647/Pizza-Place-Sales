@@ -8,7 +8,7 @@ The objective of this analysis is to uncover sales/revenue trends, best performi
 
 
 ## DATASET
-The dataset used for this analysis are four (4) csv files in a zip file.
+The datasets used for this analysis are contained in four (4) csv files.
 Upon joining all four datasets into a single dataframe, the following columns were discovered.
 - order_id
 - date
@@ -172,7 +172,7 @@ Pizza-Place-Sales/
 ├── README.md
 └── requirements.txt
 ```
-.
+
 
 ## FUTURE IMPROVEMENTS
 - Develop sales forecasting models.
