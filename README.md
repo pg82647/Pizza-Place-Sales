@@ -1,6 +1,6 @@
 # PROJECT TITLE
-# Pizza-Place-Sales
-An Analysis of Pizza Place Sales data
+# Pizza Place Sales
+**An Analysis of Pizza Place Sales data**
 
 ## PROJECT OVERVIEW
 This project analyzes a one year data of pizza orders of a fictional pizza restaurant using Python and Jupyter Notebook.  
@@ -111,7 +111,7 @@ git clone https://github.com/pg82647/Pizza-Place-Sales.git
 cd Pizza-Place-Sales
 ```
 
-3. (Optional but recommended) Create and activate a virtual environment.
+3. (Optional but recommended) Create and activate a virtual environment.  
 **Windows**
 
 ```bash
